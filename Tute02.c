@@ -18,7 +18,8 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 #include <stdio.h>
 
-int main() {
-  
+int main()
+{
+  printf("Input the distance van has travelled")
   return 0;
 }
