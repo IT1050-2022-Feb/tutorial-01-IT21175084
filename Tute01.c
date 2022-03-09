@@ -19,6 +19,7 @@ int main() {
    
    avg=(mark1+mark2)/2;
    printf("\navarage of the two numbers is :%.2f",avg,mark1,mark2);
+  printf("Dhanuka");
    
    
    
